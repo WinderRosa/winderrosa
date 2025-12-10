@@ -84,7 +84,3 @@ Minha expertise inclui desenvolvimento de dashboards dinâmicos, modelagem de da
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 
 ---
-
-> *"Dados não são apenas números; são histórias esperando para serem contadas."*
-
-*✨ Explorando constantemente novas ferramentas e técnicas para extrair o máximo valor dos dados.*
