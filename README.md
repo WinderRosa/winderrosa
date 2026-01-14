@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Winder Rosa
+# 👋 Olá, sou Winder Rosa
 
 **Analista de Dados & Business Intelligence** | Transformando dados em insights estratégicos
 
