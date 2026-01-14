@@ -81,8 +81,6 @@ Minha expertise inclui desenvolvimento de dashboards dinâmicos, modelagem de da
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winder-rosa-32b270231)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WinderRosa)
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNDIwNTAzNWUtYjMyNi00OWQ1LThjOTYtOGMxZTM2YjM4ZWFkIiwidCI6IjUzODI4ZDFlLWQ5ZjEtNDg3ZC1iNzdmLWNiOTNmMzU3OGJlZSJ9">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/briefcase.svg" width="26" alt="Portfolio"/>
-</a>
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNDIwNTAzNWUtYjMyNi00OWQ1LThjOTYtOGMxZTM2YjM4ZWFkIiwidCI6IjUzODI4ZDFlLWQ5ZjEtNDg3ZC1iNzdmLWNiOTNmMzU3OGJlZSJ9)
 
 ---
