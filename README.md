@@ -13,7 +13,7 @@
 
 ## 📊 Sobre Mim
 
-Profissional de **Inteligência de Negócios e Análise de Dados** com **+4 anos de experiência**, especializada em transformar dados complexos em insights estratégicos para áreas como **E-commerce, Comercial, RH e Logística**.
+Profissional de **Inteligência de Negócios e Análise de Dados** com **+4 anos de experiência**, especializada em transformar dados complexos em insights estratégicos para diversos setores da empresa.
 
 Minha expertise inclui desenvolvimento de dashboards dinâmicos, modelagem de dados, ETL e automação de relatórios, sempre com foco em soluções sustentáveis e orientadas a resultados.
 
